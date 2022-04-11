@@ -22,9 +22,10 @@ As a student in North South University, I was a part of a Mars Rover team [**NSU
 
 Currently looking for a job, with a view to learn, grow and help building in world class web applications with probably a sprinkle of AI on top it 😉.
 
-My socials: 
+### My socials
+----
 
-facebook -> [Rifat Masud] (https://www.facebook.com/ibnemashood)
-linkedin -> [Here!](https://www.linkedin.com/in/randbmasud/)
+facebook -> [Rifat Masud] (https://www.facebook.com/ibnemashood)<br>
+linkedin -> [Here!](https://www.linkedin.com/in/randbmasud/)<br>
 CV -> [Here!!](https://docs.google.com/document/d/e/2PACX-1vQE5bQIwN4cKo1XYb8kq6dgZnoABgl4WDja6Do_dEg7NhuD9UjHppaDKaPNO8uP-sR91CCfCz1Zc1kq/pub)
 
